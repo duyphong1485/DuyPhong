@@ -70,4 +70,4 @@ public class Teacher implements Serializable{
     }
             
 }
-sout 
+ check out oke
