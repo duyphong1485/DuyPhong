@@ -17,4 +17,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Duy+Phong;Welcome+to+my+GitHub!)
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
 
-![Duy Phong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+                                                                    
+
+    
+                                                              🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 🔥🔥🔥🔥🔥 🔥🔥
+                                                              🔥  **Duy Phong - Code, Create & Conquer**  🔥        
+                                                              🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+  
