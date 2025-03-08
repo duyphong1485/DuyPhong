@@ -12,3 +12,6 @@
 
 ### 📊 GitHub Stats
 ![https://github.com/duyphong1485](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+Last updated by **Duy Phong**: `{{CURRENT_TIMESTAMP}}`
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Duy+Phong;Welcome+to+my+GitHub!)
