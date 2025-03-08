@@ -17,17 +17,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Duy+Phong;Welcome+to+my+GitHub!)
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
 
-<svg width="400" height="100">
-  <text x="50" y="50" font-size="50" fill="cyan" stroke="blue" stroke-width="2" filter="url(#glow)">
-    Duy Phong
-  </text>
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-</svg>
+![Duy Phong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
